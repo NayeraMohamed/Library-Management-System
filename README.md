@@ -14,7 +14,7 @@ npm-install-all
 ```
 Run the database initialization script (initDb.sql) to create the database table
 
-## Ruuning the application
+## Running the application
 
 ```bash
 node ./server.js
